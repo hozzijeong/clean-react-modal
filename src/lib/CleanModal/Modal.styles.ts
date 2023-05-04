@@ -1,5 +1,5 @@
 import styled, { CSSProp, css, keyframes } from "styled-components";
-import { Dicrection } from ".";
+import { Dicrection } from "./Modal";
 
 interface StyleInputProps {
   customInputStyle?: CSSProp;
